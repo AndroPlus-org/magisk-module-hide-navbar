@@ -1,0 +1,7 @@
+id=hide-navbar-prop
+name=Hide navigation bar
+version=v01
+versionCode=1
+author=AndroPlus
+description=Simple module to hide navigation bar.
+template=1400

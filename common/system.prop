@@ -1,0 +1,4 @@
+# This file will be read by resetprop
+
+# hide navigation bar
+qemu.hw.mainkeys=1
