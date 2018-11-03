@@ -17,6 +17,9 @@ This module sets "qemu.hw.mainkeys" property to "1", which means "this device ha
 
 ## Change log
 
+#### v03
+* Updated template to 17000
+
 #### v02
 * Updated template to 1500
 
